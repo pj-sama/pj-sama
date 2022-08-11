@@ -3,15 +3,6 @@
 
 I'm a Full Stack Web Developer. Also currently studying at the University of Manchester. I also draw stuff from time to time :)
 
-###  What I'm currently working on
-
-- This README.md
-- My Resume
-- My Portfolio
-
-###  My latest finished projects
-
-- [name](link) - description
 
 ###  How to reach me
 
